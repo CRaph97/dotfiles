@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = christopher.raphael97@gmail.com
+	name = Chris Raphael
